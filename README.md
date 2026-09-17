@@ -1,30 +1,26 @@
-<h1>Creating and Managing Local Users in Our Lab Environment</h1>
-This tutorial outlines the process of creating local user accounts and permissions in Windows to
-build familiarity with tasks that are similar to those performed in Active Directory.<br />
-<h2>Environments and Technologies Used</h2>
-- Microsoft Azure
-- Windows Environment
-<h2>Operating Systems Used </h2>
-- Windows 11
-<h2>Users Created</h2>
-<p>
-📸 
+# Creating and Managing Local Users in Our Lab Environment
 
-[Image Placeholder]
+## Objective
+Create local user accounts and permissions in Windows to build familiarity with identity management tasks.
 
-</p>
-<p>
-Created a new local user accounts named enter names here
-</p>
-<br />
+## Scenario
+This lab simulated onboarding by creating new local user accounts on a Windows machine, similar to tasks performed in Active Directory environments.
 
+## Tasks Completed
+Created new local user accounts named [insert usernames].
 
+## Screenshots
+📸 [Image Placeholder]
 
+## Skills Demonstrated
+User Account Management
+Windows Administration
+Identity Management Fundamentals
 
+## What I Learned
+This lab helped me connect local user management concepts to the identity administration work I practiced in Active Directory and Microsoft Entra ID, since the underlying logic of creating and assigning accounts is similar.
 
-
-
-
-
-
-
+## Lab Environment
+Microsoft Azure
+Windows Environment
+Windows 11
