@@ -21,13 +21,13 @@ Create and manage local Windows user accounts and verify that newly created acco
 
 ### User Account Creation
 
-<img width="979" height="898" alt="Screenshot 2026-09-15 143958" src="https://github.com/user-attachments/assets/f4e03db3-ba90-4679-bc4c-b668b42d8376" />
+<img width="350" alt="Creating a local Windows user account for Sam Smith" src="https://github.com/user-attachments/assets/f4e03db3-ba90-4679-bc4c-b668b42d8376" />
 
 *Created a new local Windows user account for Sam Smith.*
 
 ### Local Users and Groups
 
-<img width="1191" height="667" alt="Screenshot 2026-09-15 144216" src="https://github.com/user-attachments/assets/f08293d3-e8a9-4994-9e7c-bd2549fd3693" />
+<img width="450" alt="Local Users and Groups showing the created Windows user account" src="https://github.com/user-attachments/assets/f08293d3-e8a9-4994-9e7c-bd2549fd3693" />
 
 *Verified that the local user account was successfully created and appeared in the Windows user list.*
 
